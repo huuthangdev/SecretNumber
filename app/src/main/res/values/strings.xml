@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Con số bí ẩn</string>
+    <string name="info_text_one">Con số bí ẩn nằm giữa <b>0</b> và <b>100</b>.</string>
+    <string name="attempts">Số lượt</string>
+    <string name="info_text_two">Cố gắng vượt qua 5 thử thách nhé!</string>
+    <string name="initial_number">10</string>
+    <string name="guess">CHỐT ĐÁP ÁN</string>
+    <string name="reset">CHƠI LẠI</string>
+    <string name="next_level">CHƠI TIẾP</string>
+    <string name="game_finished">OK</string>
+    <string name="invalidMessage">Chọn 1 số trong khoảng 0 và 100</string>
+    <string name="lowerMessage">Con số nhỏ hơn </string>
+    <string name="higherMessage">Con số lớn hơn </string>
+    <string name="endMessage">Bạn đã thua! Con số bí ẩn là </string>
+    <string name="winMessage1">Tốt! Bạn đã đoán đúng </string>
+    <string name="winMessage2"> Lượt</string>
+    <string name="winMessage3">Bạn quá giỏi!!</string>
+</resources>
